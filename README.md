@@ -1,5 +1,5 @@
 # ListMyTasks
-This websiite is cool and handy application for organizing tasks with features such as log in system, task creation, follow up and so on. 
+This website is cool and handy application for organizing day to day tasks with features such as log in system, task creation, follow up and so on. 
 
 The app is developed with React Js as front end and Laravel as back end.
 
